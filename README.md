@@ -9,20 +9,47 @@ Xdo is a task management system built using **Next.js, Node.js, and MongoDB**, d
 
 ## Features
 ### Frontend (Next.js + Context API)
-- User authentication (register & login)  
+- User authentication (register & login)
+
+
+![Login](screenShots/3.png)
+
+
+![Register](screenShots/4.png)
+
+
 - Dashboard to view all tasks  
 - CRUD operations for tasks (create, update, delete)  
 - Task attributes: **Title, Description, Due Date, Status (Pending, In Progress, Completed)**  
-- **PDF export** functionality for tasks
-![Pdf Exports](screenShots/Pdf.png)  
-- **Mobile-responsive** design  
-![Task Management Mobile](screenShots/2.png)
-- **Drag-and-drop** task management (Desktop view) 
-![Task Management Desktop](screenShots/Drag.png) 
-- Styled with **Tailwind CSS**  
+
+
+![Dashboard](screenShots/1.png)
+
+
 ![Login](screenShots/Edit.png)
-![Login](screenShots/3.png)
-![Register](screenShots/4.png)
+
+
+- **PDF export** functionality for tasks
+
+
+![Pdf Exports](screenShots/Pdf.png) 
+
+
+- **Mobile-responsive** design  
+
+
+![Task Management Mobile](screenShots/2.png)
+
+
+- **Drag-and-drop** task management (Desktop view) 
+
+
+![Task Management Desktop](screenShots/Drag.png) 
+
+
+- Styled with **Tailwind CSS**  
+
+
 
 ### Backend (Node.js API + MongoDB)
 - **User Authentication**  
