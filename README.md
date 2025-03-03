@@ -99,5 +99,5 @@ Xdo is a task management system built using **Next.js, Node.js, and MongoDB**, d
 This project is open-source and available for contributions. Feel free to fork and improve it!
 
 ---
-Made by [Mohamed Shafeeq](https://github.com/shafeeq777444)
+Developed by [Mohamed Shafeeq](https://github.com/shafeeq777444)
 
